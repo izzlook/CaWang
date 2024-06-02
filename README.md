@@ -10,5 +10,4 @@ To access. Example http://localhost/CaWang
 
 ## Sistem Requirement
 - Database MySQL
-- XAMPP / PHP 5.6
 - Server : XAMPP
